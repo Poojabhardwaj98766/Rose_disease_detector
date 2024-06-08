@@ -1,0 +1,74 @@
+body {
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+		'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+		sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+		monospace;
+}
+
+.MuiDropzoneArea-root {
+	background-color: transparent !important;
+	border-color: #800000 !important;
+}
+.MuiDropzoneArea-text, .MuiDropzoneArea-icon {
+  color:#800000 !important;
+  font-weight: bold !important;
+}
+
+.MuiDropzoneArea-root{
+	padding: 3px;
+	min-height: 520px !important;
+	padding-top: 30% !important;
+}
+
+.makeStyles-imageCard-33{
+	height:50px !important;
+}
+.makeStyles-imageCard-8{
+	min-width: 500px !important;
+	height: 540px !important;
+	align-items: center;
+}
+
+.makeStyles-buttonGrid-21{
+	margin: auto !important;
+	max-width: 250px !important;
+}
+
+.makeStyles-mainContainer-128{
+	background-repeat: repeat !important;
+}
+
+.makeStyles-gridContainer-6{
+	justify-content: space-around !important;
+}
+
+.MuiGrid-container{
+	flex-wrap: nowrap !important;
+}
+
+.MuiGrid-grid-xs-12{
+	max-width: 500px !important;
+	/* background-color: white !important; */
+}
+
+.MuiGrid-spacing-xs-2 > .MuiGrid-item{
+	height: 540px !important;
+	width: 600px !important;
+}
+
+.MuiCardContent-root{
+	padding: 5px !important;
+}
+.makeStyles-tableBody-19{
+	font-size: 15px;
+}
+.makeStyles-media-77{
+	height: 300px !important;
+}
